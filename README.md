@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Almaz</h1>
 <h3 align="center">A passionate Frontend developer on the way to Fullstack!</h3>
-<hr/>
+
 <h3 align="center">
     My goal is to become a professional full-stack developer, create unique algorithms and applications, and become part of something big
 </h3>
